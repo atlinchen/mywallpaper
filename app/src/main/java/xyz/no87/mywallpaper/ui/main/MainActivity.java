@@ -1,7 +1,9 @@
-package xyz.no87.mywallpaper;
+package xyz.no87.mywallpaper.ui.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import xyz.no87.mywallpaper.R;
 
 public class MainActivity extends AppCompatActivity {
 
